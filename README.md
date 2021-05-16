@@ -62,29 +62,36 @@ The impact of the removing math and reading scores for 9th graders at Thomas Hig
 
 #### Thomas High School Comparison (Before & After)
 
-Note there are minor doprs in average math and reading scores as well as a drop in the percent of students passing math, reading and overall.
+Note there are minor drops in average math and reading scores as well as a drop in the percent of students passing math, reading and overall.
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_After.PNG?raw=true)
 
+#### Top Performing Schools (Before & After)
 
+As seen in the tables below, the impact of the removal of math and reading data for 9th graders at Thomas High School can be seen in the average scores and percentage of students passing. However, these changes were not significant enough to change Thomas High School's ranking as the #2 school in the district. See the top school rankings below.
 
-### District Summary
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Top_Schools_Before.PNG?raw=true)
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Top_Schools_After.PNG?raw=true)
+
+The removal of math and reading data for 9th graders at Thomas High School did impact percentages. However, due to rounding requirements of the analysis the impact of their removal were not seen in the district summary, scores by school type, scores by school size, or schools by school spending results.
+
+#### District Summary (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/District_Summary_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/District_Summary_After.PNG?raw=true)
 
-### School Type
+#### Scores by School Type (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/SchoolType_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/SchoolType_After.PNG?raw=true)
 
-### School Size
+#### Scores by School Size (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Size_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Size_After.PNG?raw=true)
 
-### School Spending
+#### Scores by School Spending (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Spending_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Spending_After.PNG?raw=true)
