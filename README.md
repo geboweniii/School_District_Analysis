@@ -24,50 +24,57 @@ The school district provided the following comma separated values (CSV) files as
 * students_complete.csv
 
 The analysis was conducted using:
-Jupyter Notebook 6.1.4
-Python 7.19.0
-GitBash 2.31.1
-GitHub
+* Jupyter Notebook 6.1.4
+* Python 7.19.0
+* GitBash 2.31.1
+* GitHub
 
 Both CSV files were downloaded, inspected and imported into Jupyter Notebook using Python. Python coding was used to clean and process the data. Project files were stored in the GitHub respository for the purposes of warehousing, delivery and review.
 
-School Summary
 
-![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/School_Summary_Before.PNG?raw=true)
-![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/School_Summary_After.PNG?raw=true)
+## Results
 
-Thomas High School Comparison
+The comparative analysis of the data began by producing outputs for each school both before and after the removal of math and reading scores for 9th graders at Thomas High School. The following screenshots depict where data had been replaced with "NaN".
 
-![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_Before.PNG?raw=true)
-![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_After.PNG?raw=true)
-
-By Grade Math
+### Math Scores by School and Grade (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Math_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Math_After.PNG?raw=true)
 
-By Grade Reading
+### Reading Scores by School and Grade (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Reading_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Reading_After.PNG?raw=true)
 
 
-District Summary
+### School Summary
+
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/School_Summary_Before.PNG?raw=true)
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/School_Summary_After.PNG?raw=true)
+
+### Thomas High School Comparison
+
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_Before.PNG?raw=true)
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_After.PNG?raw=true)
+
+
+
+### District Summary
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/District_Summary_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/District_Summary_After.PNG?raw=true)
 
-School Type
+### School Type
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/SchoolType_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/SchoolType_After.PNG?raw=true)
 
-School Size
+### School Size
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Size_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Size_After.PNG?raw=true)
 
-School Spending
+### School Spending
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Spending_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Spending_After.PNG?raw=true)
