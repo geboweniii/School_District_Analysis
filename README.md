@@ -96,7 +96,12 @@ The removal of math and reading data for 9th graders at Thomas High School did i
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Spending_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Spending_After.PNG?raw=true)
 
-#### District Summary (Before & After)
+
+## Summary
+
+The removal of math and reading data for 9th graders at Thomas High School did impact percentages. This resulted in minor changes in the district summary. The was a drop in average math score from 79.0 to 78.9, a drop in the percentage of students passing math from 75.0 to 74.8, a drop in the percentage of students passing reading from 85.8 to 85.7, and a drop in the percentage of students passing both math and reading from 65.2 to 64.9. See the comparison tables below.
+
+### District Summary (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/District_Summary_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/District_Summary_After.PNG?raw=true)
