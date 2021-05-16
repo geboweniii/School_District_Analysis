@@ -62,7 +62,7 @@ The impact of the removing math and reading scores for 9th graders at Thomas Hig
 
 #### Thomas High School Comparison (Before & After)
 
-Note there are minor drops in average math and reading scores as well as a drop in the percent of students passing math, reading and overall.
+Note there are changes in the percent of students passing math, reading and overall. See tables below.
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_After.PNG?raw=true)
