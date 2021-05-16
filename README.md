@@ -71,7 +71,7 @@ Note there are changes in the percent of students passing math, reading and over
 
 As seen in the tables below, the impact of the removal of math and reading data for 9th graders at Thomas High School resulted in the placement of Thomas High School in the top schools of the district. See the top school rankings below.
 
-
+![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Top_Schools_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/Top_Schools_After.PNG?raw=true)
 
 The removal of math and reading data for 9th graders at Thomas High School did impact percentages. This resulted in minor changes in the district summary. Due to rounding requirements of the analysis the impact of their removal were not seen in the scores by school type, scores by school size, or schools by school spending results.
