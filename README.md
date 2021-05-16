@@ -34,25 +34,35 @@ Both CSV files were downloaded, inspected and imported into Jupyter Notebook usi
 
 ## Results
 
+### Math and Reading Scores By School and Grade
+
 The comparative analysis of the data began by producing outputs for each school both before and after the removal of math and reading scores for 9th graders at Thomas High School. The following screenshots depict where data had been replaced with "NaN".
 
-### Math Scores by School and Grade (Before & After)
+#### Math Scores by School and Grade (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Math_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Math_After.PNG?raw=true)
 
-### Reading Scores by School and Grade (Before & After)
+#### Reading Scores by School and Grade (Before & After)
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Reading_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/ByGrade_Summary_Reading_After.PNG?raw=true)
 
+### School Summaries
+The impact of the removing math and reading scores for 9th graders at Thomas High School can be seen in the following tables. Note results are unchanged for all schools except for Thomas High School. A focused comparison of Thomas High School can be found below the school summaries.
 
-### School Summary
+#### School Summary Before
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/School_Summary_Before.PNG?raw=true)
+
+#### School Summary After
+
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/School_Summary_After.PNG?raw=true)
 
-### Thomas High School Comparison
+
+#### Thomas High School Comparison (Before & After)
+
+Note there are minor doprs in average math and reading scores as well as a drop in the percent of students passing math, reading and overall.
 
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_Before.PNG?raw=true)
 ![alt text](https://github.com/geboweniii/School_District_Analysis/blob/main/Images/THS_Summary_After.PNG?raw=true)
